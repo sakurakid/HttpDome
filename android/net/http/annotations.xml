@@ -1,0 +1,5 @@
+<root>
+    <item name='android.net.http.HttpsConnection'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
